@@ -15,6 +15,17 @@
   <img align="center" alt="Ser-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ser-Postg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
+<div>
+  https://www.vectorlogo.zone/logos/golang/golang-icon.svg
+  https://www.vectorlogo.zone/logos/python/python-icon.svg
+  https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg
+  https://www.vectorlogo.zone/logos/docker/docker-icon.svg
+  
+</div>
+
+<div>
+<p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
+</div>
 <div> 
   <a href="https://instagram.com/serrinsa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:srinsaurralde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
