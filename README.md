@@ -32,10 +32,8 @@
 <div align="center">
 <i>👀 Visitor's Count:</i>
 </div>
-<div>
-  <p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
 <br>
-</div>
+  <p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
 
 <div> 
   <br> 
