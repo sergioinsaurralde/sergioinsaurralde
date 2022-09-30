@@ -33,6 +33,7 @@
 <br>
 <div align="center">
   ### 👀 Visitor's Count
+  ### :zap: Recent Activity
   <br>
   <p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
 </div>
