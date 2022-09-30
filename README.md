@@ -31,7 +31,7 @@
 </div>
 <div>
 <br>
-<p align="center"> 👀 ** Visitor's Count **</p>
+<p align="center">### **Visitor's Count**</p>
   
   <br>
   <p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
