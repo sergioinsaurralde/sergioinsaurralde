@@ -31,11 +31,12 @@
 </div>
 <div>
 <br>
-<p align="center">### **Visitor's Count**</p>
-  
+### **Visitor's Count**
+<div>
   <br>
   <p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
 <br>
+</div>
 </div>
 <div> 
   <a href="https://instagram.com/serrinsa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
