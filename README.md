@@ -39,6 +39,20 @@
   <a href="https://instagram.com/serrinsa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:srinsaurralde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br> 
+  <a href="https://in.linkedin.com/in/">
+   <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:srinsaurralde@gmail.com">
+    <img align="left" alt="Sergio Insaurralde | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+  <a href="https://twitter.com/">
+    <img align="left" alt="Sergio Insaurralde | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/serrinsa">
+    <img align="left" alt="Sergio Insaurralde | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  </a>
+<br>
  
   ![Snake animation](https://github.com/sergioinsaurralde/sergioinsaurralde/blob/output/github-contribution-grid-snake.svg)
  
