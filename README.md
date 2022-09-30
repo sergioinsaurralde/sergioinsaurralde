@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 ## Holaa soy Sergio Insaurralde
 
@@ -30,21 +30,20 @@
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 </div>
-<br>
-<div align="center">
-<i>👀 Visitor's Count:</i>
-</div>
-<br>
-  <p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
-
 <div> 
   <br> 
   <code><a href="https://www.instagram.com/serrinsa" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
   <code><a href="https://in.linkedin.com/in/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
   <code><a href="https://twitter.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
   <code><a href="mailto:srinsaurralde@gmail.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
-<br>
+  <br>
  
   ![Snake animation](https://github.com/sergioinsaurralde/sergioinsaurralde/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<br>
+<div align="center">
+<i>👀 Visitor's Count:</i>
+</div>
+<br>
+  <p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
