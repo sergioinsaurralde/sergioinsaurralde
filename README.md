@@ -16,8 +16,10 @@
   <img align="center" alt="Ser-Postg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 <div>
-  https://www.vectorlogo.zone/logos/golang/golang-icon.svg
-  https://www.vectorlogo.zone/logos/python/python-icon.svg
+  <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+  <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+  <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+  <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
   https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg
   https://www.vectorlogo.zone/logos/docker/docker-icon.svg
   
