@@ -41,6 +41,24 @@
   <code><a href="mailto:srinsaurralde@gmail.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
   <br>
 </div>
+
+## Support me
+<!-- Your support, if you have it 
+I created these images, feel free to use them.
+-->
+<p align="center">
+  <a href="https://www.patreon.com/" target="_blank">
+    <img width="18%" alt="Check my Patreon" src="https://github.com/sergioinsaurralde/sergioinsaurralde/blob/main/support-patreon.png"/>
+  </a>
+  <a href="https://www.paypal.com/" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://github.com/sergioinsaurralde/sergioinsaurralde/blob/main/support-paypal.png"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://github.com/sergioinsaurralde/sergioinsaurralde/blob/main/support-buy-coffee.png"/>
+  </a>
+</p>
+
+
 <br>
 <div align="center">
 <i>👀 Visitor's Count:</i>
