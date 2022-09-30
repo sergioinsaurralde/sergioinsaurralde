@@ -30,7 +30,8 @@
   <img align="center" alt="Ser-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div align="center">
-<i>👀 Visitor's Count:</i><br>
+<i>👀 Visitor's Count:</i>
+<br>
   <p align="center"><img src="https://profile-counter.glitch.me/{sergioinsaurralde}/count.svg" alt="sergioinsaurralde :: Visitor's Count" /></p>
 <br>
 </div>
@@ -40,6 +41,11 @@
   <a href = "mailto:srinsaurralde@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br> 
+  <code><a href="https://www.instagram.com/serrinsa" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
+  <code><a href="https://in.linkedin.com/in/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+  <code><a href="https://twitter.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
+  <code><a href="mailto:srinsaurralde@gmail.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
+  
   <a href="https://in.linkedin.com/in/">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
