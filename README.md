@@ -53,7 +53,7 @@ I created these images, feel free to use them.
   <a href="https://www.paypal.com/" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://github.com/sergioinsaurralde/sergioinsaurralde/blob/main/support-paypal.png"/>
   </a>
-  <a href="[https://www.buymeacoffee.com/](https://www.buymeacoffee.com/serinsaurralde)" target="_blank">
+  <a href="https://www.buymeacoffee.com/serinsaurralde" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://github.com/sergioinsaurralde/sergioinsaurralde/blob/main/support-buy-coffee.png"/>
   </a>
 </p>
