@@ -36,8 +36,8 @@
   
   ![Snake animation](https://github.com/sergioinsaurralde/sergioinsaurralde/blob/output/github-contribution-grid-snake.svg)
   
-  <code><a href="https://in.linkedin.com/in/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
-  <code><a href="https://twitter.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
+  <code><a href="https://in.linkedin.com/in/sergioinsaurralde" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+  <code><a href="https://twitter.com/SRInsaurralde" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
   <code><a href="https://www.instagram.com/srinsaurralde" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
   <code><a href="mailto:srinsaurralde@gmail.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a></code>
   <br>
