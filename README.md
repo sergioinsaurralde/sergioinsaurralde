@@ -1,7 +1,7 @@
 ![Matrix SVG](https://github.com/sergioinsaurralde/sergioinsaurralde/blob/main/matrix.svg)
 
 ## Holaa soy Sergio Insaurralde.
-### Un desarrollador de software freelance con experiencia en el desarrollo de aplicaciones web y sistemas backend. Mi principal lenguaje de programación es Go, pero también tengo experiencia en el uso de Python y React/Next.js. Mi objetivo es proporcionar soluciones de calidad y escalables para ayudarl a alcanzar los objetivos comerciales propuestos. Con un enfoque en la colaboración y la comunicación constante, trabajo con mis clientes para entender sus necesidades y proporcionar soluciones personalizadas. ¡Trabajemos juntos para llevar tú proyecto al siguiente nivel!
+
 
 <div align="center">
   <a href="https://github.com/sergioinsaurralde">
